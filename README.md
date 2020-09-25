@@ -1,6 +1,6 @@
 ![image of 3D environment with one person in it](docs/images/yorb-2020.png "YORB 2020")
 
-## About
+## About 
 
 **YORB2020** is a multi-user social space online, created at NYU's [Interactive Telecommunications Program](itp.nyu.edu) in response to the quarantine conditions of COVID-19, this project attempts to provide the ITP community with a shared virtual space to hang out, collaborate and work near each other.  
 
